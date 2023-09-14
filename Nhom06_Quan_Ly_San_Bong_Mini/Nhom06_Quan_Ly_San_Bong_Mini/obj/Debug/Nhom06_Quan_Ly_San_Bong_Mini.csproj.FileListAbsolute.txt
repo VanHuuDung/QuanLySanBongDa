@@ -1,0 +1,37 @@
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\bin\Debug\Nhom06_Quan_Ly_San_Bong_Mini.exe
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\bin\Debug\Nhom06_Quan_Ly_San_Bong_Mini.pdb
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.csprojResolveAssemblyReference.cache
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Dang_Nhap.resources
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Properties.Resources.resources
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.csproj.GenerateResource.Cache
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.exe
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.pdb
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Dang_Ky.resources
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Quen_Mat_Khau.resources
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Dat_San.resources
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Nhan_San.resources
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Thong_Tin_Ca_Nhan.resources
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Thanh_Toan.resources
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Chi_Tiet_Hoa_Don.resources
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Quan_Ly.resources
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\bin\Debug\ADO.dll
+E:\Đại học\Net\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\bin\Debug\ADO.pdb
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\bin\Debug\Nhom06_Quan_Ly_San_Bong_Mini.exe
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\bin\Debug\Nhom06_Quan_Ly_San_Bong_Mini.pdb
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\bin\Debug\ADO.dll
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\bin\Debug\ADO.pdb
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Dang_Ky.resources
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Dang_Nhap.resources
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Quan_Ly.resources
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Nhan_San.resources
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Properties.Resources.resources
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Quen_Mat_Khau.resources
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Dat_San.resources
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Thanh_Toan.resources
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Thong_Tin_Ca_Nhan.resources
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.csproj.GenerateResource.cache
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.exe
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.pdb
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.csprojResolveAssemblyReference.cache
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\obj\Debug\Nhom06_Quan_Ly_San_Bong_Mini.Report.resources
+C:\Users\nguyễn thành tài\OneDrive\Máy tính\Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini\bin\Debug\Nhom06_Quan_Ly_San_Bong_Mini.exe.config
